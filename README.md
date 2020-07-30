@@ -1,5 +1,5 @@
 # botskype
-botskype php 
+bot skype php 
 ```
 untuk menerima pesan 
 [get] /bot.php
