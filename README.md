@@ -2,16 +2,16 @@
 botskype php 
 ```
 untuk menerima pesan 
-###/bot.php
+[get] /bot.php
 
 untuk mengirim pesan manual
-### [post] /send.php
+[post] /send.php
 
 untuk lihat daftar user 
-### /user.php
+[get] /user.php
 
 untuk update token 
-#### /update_token.php
+[get] /update_token.php
 ```
 
-## bot bekerja sekarang di tanggal 30-juli-2020
+#### bot bekerja sekarang di tanggal 30-juli-2020
