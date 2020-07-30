@@ -15,9 +15,10 @@ untuk update token
 ```
 
 # konfigurasi 
+```
 file Send_message.php 
 $msID = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"; // isi dengan data yang sesuai
 $msSc = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"; // isi dengan data yang sesuai
-
+```
 
 #### bot bekerja sekarang di tanggal 30-juli-2020
