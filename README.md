@@ -22,3 +22,6 @@ $msSc = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"; // isi dengan data yang sesuai
 ```
 
 #### bot bekerja sekarang di tanggal 30-juli-2020
+
+
+[saweria ngambangdotcom](https://saweria.co/ngambangdotcom)
